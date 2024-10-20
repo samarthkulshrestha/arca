@@ -1,0 +1,9 @@
+{
+  "name": "arca",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
